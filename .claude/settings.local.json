@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --yes)",
+      "Skill(frontend-design:frontend-design)",
+      "Bash(npm run dev)",
+      "Bash(curl:*)",
+      "Bash(timeout:*)",
+      "Bash(taskkill:*)",
+      "Skill(frontend-design)",
+      "WebSearch",
+      "Bash(ping:*)",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}
